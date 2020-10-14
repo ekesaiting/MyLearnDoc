@@ -1,14 +1,17 @@
 * [首页](/)
 * [前言](/前言)
-* [java](/java)
-  * [hashcode与锁](/java/hashcode与锁)
+* java
   * jvm
     * [class文件结构](/java/jvm/class文件结构)
     * [other](/java/jvm/other)
   * spring
     * [spring cloud组件简介](/java/spring/SpringCloud组件简介)
   * [我理解的stream](/java/stream)
+  * [内部类](/java/内部类)
+  * [代理](/java/代理)
+  * [线程](/java/java线程)
   * [设计模式](/java/设计模式)
+  * [other](/java/other)
 
 * mysql
   * [mvcc](/mysql/MVCC)
