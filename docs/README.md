@@ -1,3 +1,3 @@
-# 首页
+# My Learn doc
 
-> 一个新的docsify工程
+[进入github pages](https://ekesaiting.github.io/MyLearnDoc/#/)
